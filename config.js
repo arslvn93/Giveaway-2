@@ -198,7 +198,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759777887553_0",
+      "id": "q_auto_1759779610320_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -220,7 +220,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759777887553_1",
+      "id": "q_auto_1759779610320_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -242,7 +242,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759777887553_2",
+      "id": "q_auto_1759779610320_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -287,13 +287,13 @@ const config = {
       "phone": "416-938-7771",
       "email": "acaputorealty@gmail.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Anthony Caputo in collaboration with Re/Max Experts. Not sponsored by or affiliated with Canada Soccer, the Ecuador Football Federation, BMO Field, or Meta. Contest runs Oct 19–Nov 3, 2025. One winner will be chosen at random from valid entries. Must be 18+, Ontario resident, and able to attend the Nov 13 game. No purchase necessary. Travel/parking not included. Tickets are for personal use only — no resale. Odds depend on number of entries. Winner must reply within 24–48 hours or a new winner may be selected. By entering, you agree to receive messages from Anthony Caputo; you can unsubscribe anytime.",
+    "footerDisclaimer": "This giveaway is sponsored by Anthony Caputo in collaboration with Christopher DeFazio. Not sponsored by or affiliated with Canada Soccer, the Ecuador Football Federation, BMO Field, or Meta. Contest runs Oct 19–Nov 3, 2025. One winner will be chosen at random from valid entries. Must be 18+, Ontario resident, and able to attend the Nov 13 game. No purchase necessary. Travel/parking not included. Tickets are for personal use only — no resale. Odds depend on number of entries. Winner must reply within 24–48 hours or a new winner may be selected. By entering, you agree to receive messages from Anthony Caputo; you can unsubscribe anytime.",
     "organizerLogoUrl": "https://iili.io/K5srt2e.webp",
     "secondaryLogoUrl": "https://iili.io/K5PBDjR.webp",
     "secondaryLogoAlt": "Brokerage Logo",
     "organizerName": "Anthony Caputo",
-    "brokerageName": "Re/Max Experts",
-    "address": "44 Queen St. N, Bolton, ON, L7E1B9, Canada",
+    "brokerageName": "Christopher DeFazio",
+    "address": "44 Queen St. N, Bolton, ON, L7E 1B9, Canada",
     "email": "acaputorealty@gmail.com",
     "phone": "416-938-7771",
     "copyrightOwner": "Anthony Caputo"
