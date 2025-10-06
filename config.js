@@ -198,68 +198,74 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759781289441_0",
-      "questionText": "What do you like the most about your current home?",
+      "id": "q_auto_1759781524556_0",
+      "questionText": "When are you planning to make your next move?",
       "options": [
         {
-          "value": "The location",
-          "text": "The location"
+          "value": "Within the next 6 months",
+          "text": "Within the next 6 months"
         },
         {
-          "value": "The layout",
-          "text": "The layout"
+          "value": "6–12 months from now",
+          "text": "6–12 months from now"
         },
         {
-          "value": "The finishes (paint, lighting, etc.)",
-          "text": "The finishes (paint, lighting, etc.)"
-        },
-        {
-          "value": "The outdoor space",
-          "text": "The outdoor space"
+          "value": "Just exploring for now",
+          "text": "Just exploring for now"
         }
       ]
     },
     {
-      "id": "q_auto_1759781289441_1",
-      "questionText": "Is a move on your radar in the near future?",
+      "id": "q_auto_1759781524556_1",
+      "questionText": "Have you been pre-approved for a mortgage, or would you like a connection to a trusted mortgage advisor?",
       "options": [
         {
-          "value": "Yes, sometime in 2025",
-          "text": "Yes, sometime in 2025"
+          "value": "Yes, I’m already pre-approved",
+          "text": "Yes, I’m already pre-approved"
         },
         {
-          "value": "Yes, in the next 1 - 2 years",
-          "text": "Yes, in the next 1 - 2 years"
+          "value": "Planning to get pre-approved / I’d like a connection",
+          "text": "Planning to get pre-approved / I’d like a connection"
         },
         {
-          "value": "Not at the moment",
-          "text": "Not at the moment"
-        },
-        {
-          "value": "I’m not sure yet",
-          "text": "I’m not sure yet"
+          "value": "Not considering pre-approval yet",
+          "text": "Not considering pre-approval yet"
         }
       ]
     },
     {
-      "id": "q_auto_1759781289441_2",
-      "questionText": "What’s your current housing situation?",
+      "id": "q_auto_1759781524556_2",
+      "questionText": "Is your current mortgage up for renewal soon?",
       "options": [
         {
-          "value": "I rent and am interested in buying",
-          "text": "I rent and am interested in buying"
+          "value": "Yes, within the next 12 months",
+          "text": "Yes, within the next 12 months"
         },
         {
-          "value": "I own and might sell within 2 years",
-          "text": "I own and might sell within 2 years"
+          "value": "No, more than 12 months away",
+          "text": "No, more than 12 months away"
         },
         {
-          "value": "I own and am happy where I am",
-          "text": "I own and am happy where I am"
+          "value": "Not sure",
+          "text": "Not sure"
+        }
+      ]
+    },
+    {
+      "id": "q_auto_1759781524556_3",
+      "questionText": "Which best describes your property needs right now?",
+      "options": [
+        {
+          "value": "Actively searching for something specific",
+          "text": "Actively searching for something specific"
         },
         {
-          "value": "I’m actively looking to buy or sell now",
-          "text": "I’m actively looking to buy or sell now"
+          "value": "Exploring options / open to suggestions",
+          "text": "Exploring options / open to suggestions"
+        },
+        {
+          "value": "Just gathering information for now",
+          "text": "Just gathering information for now"
         }
       ]
     }
