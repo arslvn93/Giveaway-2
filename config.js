@@ -8,7 +8,7 @@ const config = {
     "heroHeadline": "Win <span class='highlight'>Premium Match Tickets</span> + BMO Lounge Access!",
     "heroSubheadline": "Premium Seats + VIP Lounge Access to Canada vs. Ecuador at BMO Field – $500 Value",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/cg2h0gcdy5rme0csgxbtyc2j94.jpg",
-    "promotionDates": "Enter Oct 19–Nov 3, 2025. Winner contacted within 24–48 hours after draw. Game night: Thu, Nov 13, 7:30 PM at BMO Field.",
+    "promotionDates": "Enter Oct 19–Nov 3, 2025. Winner contacted within 24–48 hours. Game night: Thu, Nov 13, 7:30 PM at BMO Field.",
     "endDate": "2025-11-04T04:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter Me to Win!",
@@ -198,7 +198,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759779610320_0",
+      "id": "q_auto_1759779850924_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -220,7 +220,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759779610320_1",
+      "id": "q_auto_1759779850924_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -242,7 +242,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759779610320_2",
+      "id": "q_auto_1759779850924_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -279,7 +279,7 @@ const config = {
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/share/1DrMVdUjLo/?mibextid=wwXIfr",
-      "instagram": "https://www.instagram.com/thecaputogroup.realestate/?hl=en"
+      "instagram": "https://instagram.com/NA"
     },
     "agentContact": {
       "name": "Anthony Caputo",
@@ -287,13 +287,13 @@ const config = {
       "phone": "416-938-7771",
       "email": "acaputorealty@gmail.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Anthony Caputo in collaboration with Christopher DeFazio. Not sponsored by or affiliated with Canada Soccer, the Ecuador Football Federation, BMO Field, or Meta. Contest runs Oct 19–Nov 3, 2025. One winner will be chosen at random from valid entries. Must be 18+, Ontario resident, and able to attend the Nov 13 game. No purchase necessary. Travel/parking not included. Tickets are for personal use only — no resale. Odds depend on number of entries. Winner must reply within 24–48 hours or a new winner may be selected. By entering, you agree to receive messages from Anthony Caputo; you can unsubscribe anytime.",
-    "organizerLogoUrl": "https://iili.io/K5srt2e.webp",
+    "footerDisclaimer": "This giveaway is sponsored by Anthony Caputo in collaboration with [Mortgage Broker Name]. Not sponsored by or affiliated with Canada Soccer, the Ecuador Football Federation, BMO Field, or Meta. Contest runs Oct 19–Nov 3, 2025. One winner will be chosen at random from valid entries. Must be 18+, Ontario resident, and able to attend the Nov 13 game. No purchase necessary. Travel/parking not included. Tickets are for personal use only — no resale. Odds depend on number of entries. Winner must reply within 24–48 hours or a new winner may be selected. By entering, you agree to receive messages from Anthony Caputo; you can unsubscribe anytime.",
+    "organizerLogoUrl": "https://iili.io/Khlz4vR.webp",
     "secondaryLogoUrl": "https://iili.io/K5PBDjR.webp",
     "secondaryLogoAlt": "Brokerage Logo",
     "organizerName": "Anthony Caputo",
-    "brokerageName": "Christopher DeFazio",
-    "address": "44 Queen St. N, Bolton, ON, L7E 1B9, Canada",
+    "brokerageName": "Re/Max Experts",
+    "address": "44 Queen St. N, Bolton, ON, L7E1B9, Canada",
     "email": "acaputorealty@gmail.com",
     "phone": "416-938-7771",
     "copyrightOwner": "Anthony Caputo"
