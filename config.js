@@ -8,7 +8,7 @@ const config = {
     "heroHeadline": "Win <span class='highlight'>Premium Match Tickets</span> + BMO Lounge Access!",
     "heroSubheadline": "Premium Seats + VIP Lounge Access to Canada vs. Ecuador at BMO Field – $500 Value",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/cg2h0gcdy5rme0csgxbtyc2j94.jpg",
-    "promotionDates": "Enter Oct 19–Nov 3, 2025. Winner contacted within 24–48 hours. Game night: Thu, Nov 13, 7:30 PM at BMO Field.",
+    "promotionDates": "Enter Oct 19–Nov 3, 2025. Winner contacted within 24–48 hours after draw. Game night: Thu, Nov 13, 7:30 PM at BMO Field.",
     "endDate": "2025-11-04T04:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter Me to Win!",
@@ -198,7 +198,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759777802832_0",
+      "id": "q_auto_1759777887553_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -220,7 +220,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759777802832_1",
+      "id": "q_auto_1759777887553_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -242,7 +242,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759777802832_2",
+      "id": "q_auto_1759777887553_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
