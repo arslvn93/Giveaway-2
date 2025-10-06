@@ -198,7 +198,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759777668532_0",
+      "id": "q_auto_1759777802832_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -220,7 +220,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759777668532_1",
+      "id": "q_auto_1759777802832_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -242,7 +242,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759777668532_2",
+      "id": "q_auto_1759777802832_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -279,7 +279,7 @@ const config = {
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/share/1DrMVdUjLo/?mibextid=wwXIfr",
-      "instagram": "https://instagram.com/NA"
+      "instagram": "https://www.instagram.com/thecaputogroup.realestate/?hl=en"
     },
     "agentContact": {
       "name": "Anthony Caputo",
