@@ -2,11 +2,11 @@ const config = {
   "meta": {
     "pageTitle": "Win $500 Canada vs Ecuador Tickets + BMO Lounge",
     "navBrandLogoText": "Anthony Caputo",
-    "privacyPolicyLink": "[Add Privacy Policy Link]"
+    "privacyPolicyLink": "https://thecaputogroup.ca/privacy/"
   },
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>Premium Match Tickets</span> + BMO Lounge Access!",
-    "heroSubheadline": "Canada vs. Ecuador at BMO Field. $500 value. Game is Thu, Nov 13 at 7:30 PM. Entry closes Nov 3. Free to enter.",
+    "heroSubheadline": "Premium Seats + VIP Lounge Access to Canada vs. Ecuador at BMO Field – $500 Value",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/cg2h0gcdy5rme0csgxbtyc2j94.jpg",
     "promotionDates": "Enter Oct 19–Nov 3, 2025. Winner contacted within 24–48 hours. Game night: Thu, Nov 13, 7:30 PM at BMO Field.",
     "endDate": "2025-11-04T04:59:00.000Z",
@@ -28,16 +28,10 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You're In the Running!",
-    "mainMessage": "Your entry for the <strong>Stadium Dreams Giveaway</strong> is in. We draw on Nov 3 and will email the winner within 24–48 hours. Tickets are sent digitally once confirmed. Good luck!",
-    "socialPromptText": "Watch your email on Nov 3. We may also post the winner on our social page."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -137,8 +131,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -184,6 +176,8 @@ const config = {
       "Answer the bonus questions honestly so we can serve you better",
       "Share with local soccer friends after you enter"
     ],
+    "finePrintText": "Please read the fine print before entering.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
       "text": "We pick the winner with a random draw tool. Every valid entry has the same chance. One winner. No tricks."
@@ -204,7 +198,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1757969005264_0",
+      "id": "q_auto_1759777442481_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -226,7 +220,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_1",
+      "id": "q_auto_1759777442481_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -248,7 +242,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_2",
+      "id": "q_auto_1759777442481_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -270,6 +264,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You're In the Running!",
+    "mainMessage": "Your entry for the <strong>Stadium Dreams Giveaway</strong> is in. We draw on Nov 3 and will email the winner within 24–48 hours. Tickets are sent digitally once confirmed. Good luck!",
+    "socialPromptText": "Watch your email on Nov 3. We may also post the winner on our social page."
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/share/1DrMVdUjLo/?mibextid=wwXIfr",
@@ -282,12 +288,12 @@ const config = {
       "email": "acaputorealty@gmail.com"
     },
     "footerDisclaimer": "This giveaway is sponsored by Anthony Caputo in collaboration with [Mortgage Broker Name]. Not sponsored by or affiliated with Canada Soccer, the Ecuador Football Federation, BMO Field, or Meta. Contest runs Oct 19–Nov 3, 2025. One winner will be chosen at random from valid entries. Must be 18+, Ontario resident, and able to attend the Nov 13 game. No purchase necessary. Travel/parking not included. Tickets are for personal use only — no resale. Odds depend on number of entries. Winner must reply within 24–48 hours or a new winner may be selected. By entering, you agree to receive messages from Anthony Caputo; you can unsubscribe anytime.",
-    "organizerLogoUrl": "[Add Company Logo URL]",
-    "secondaryLogoUrl": "[Add Brokerage Logo URL]",
+    "organizerLogoUrl": "https://iili.io/K5srt2e.webp",
+    "secondaryLogoUrl": "https://iili.io/K5PBDjR.webp",
     "secondaryLogoAlt": "Brokerage Logo",
     "organizerName": "Anthony Caputo",
-    "brokerageName": "[Add Brokerage Name]",
-    "address": "[Add Brokerage Address]",
+    "brokerageName": "Re/Max Experts",
+    "address": "44 Queen St. N, Bolton, ON, L7E1B9, Canada",
     "email": "acaputorealty@gmail.com",
     "phone": "416-938-7771",
     "copyrightOwner": "Anthony Caputo"
