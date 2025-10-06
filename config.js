@@ -59,7 +59,7 @@ const config = {
       },
       {
         "icon": "fas fa-glass-cheers",
-        "text": "Access to the BMO Lounge for a smoother night"
+        "text": "Access for two to the BMO Lounge for a smoother night"
       },
       {
         "icon": "fas fa-mobile-alt",
@@ -198,7 +198,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759780159111_0",
+      "id": "q_auto_1759780183834_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -220,7 +220,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759780159111_1",
+      "id": "q_auto_1759780183834_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -242,7 +242,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759780159111_2",
+      "id": "q_auto_1759780183835_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
