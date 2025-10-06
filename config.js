@@ -198,7 +198,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759780283034_0",
+      "id": "q_auto_1759780484316_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -220,7 +220,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759780283034_1",
+      "id": "q_auto_1759780484316_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -242,7 +242,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759780283034_2",
+      "id": "q_auto_1759780484316_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -292,7 +292,7 @@ const config = {
     "secondaryLogoUrl": "https://iili.io/K5PBDjR.webp",
     "secondaryLogoAlt": "Brokerage Logo",
     "organizerName": "Anthony Caputo",
-    "brokerageName": "Christopher DeFazio",
+    "brokerageName": "Christopher DeFazio (Broker)",
     "address": "44 Queen St. N, Bolton, ON, L7E 1B9, Canada",
     "email": "acaputorealty@gmail.com",
     "phone": "416-938-7771",
