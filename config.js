@@ -27,7 +27,7 @@ const config = {
     "theme": "dark",
     "primaryColorOverride": "",
     "secondaryColorOverride": "",
-    "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
+    "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/sOCXFADErl7YnAppyjkb/webhook-trigger/d1ryyGnWSyjJBuySHKaK",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
     "followUpBossEmail": "",
@@ -198,7 +198,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759781524556_0",
+      "id": "q_auto_1759948802571_0",
       "questionText": "When are you planning to make your next move?",
       "options": [
         {
@@ -216,7 +216,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759781524556_1",
+      "id": "q_auto_1759948802571_1",
       "questionText": "Have you been pre-approved for a mortgage, or would you like a connection to a trusted mortgage advisor?",
       "options": [
         {
@@ -234,7 +234,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759781524556_2",
+      "id": "q_auto_1759948802571_2",
       "questionText": "Is your current mortgage up for renewal soon?",
       "options": [
         {
@@ -252,7 +252,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759781524556_3",
+      "id": "q_auto_1759948802571_3",
       "questionText": "Which best describes your property needs right now?",
       "options": [
         {
@@ -309,6 +309,6 @@ const config = {
     "repoUrl": "https://github.com/arslvn93/Giveaway-2",
     "netlifyUrl": "http://Giveaway-2.netlify.app",
     "netlifyId": "",
-    "tag": "Stadium Dreams Giveaway"
+    "tag": "Canada Soccer Giveaway"
   }
 };
