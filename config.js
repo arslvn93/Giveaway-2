@@ -1,6 +1,6 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $500 Canada vs Ecuador Tickets + BMO Lounge",
+    "pageTitle": "Canada Soccer Giveaway",
     "navBrandLogoText": "Anthony Caputo",
     "privacyPolicyLink": "https://thecaputogroup.ca/privacy/"
   },
@@ -198,7 +198,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759948802571_0",
+      "id": "q_auto_1759948860707_0",
       "questionText": "When are you planning to make your next move?",
       "options": [
         {
@@ -216,7 +216,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759948802571_1",
+      "id": "q_auto_1759948860707_1",
       "questionText": "Have you been pre-approved for a mortgage, or would you like a connection to a trusted mortgage advisor?",
       "options": [
         {
@@ -234,7 +234,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759948802571_2",
+      "id": "q_auto_1759948860707_2",
       "questionText": "Is your current mortgage up for renewal soon?",
       "options": [
         {
@@ -252,7 +252,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759948802571_3",
+      "id": "q_auto_1759948860707_3",
       "questionText": "Which best describes your property needs right now?",
       "options": [
         {
