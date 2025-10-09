@@ -198,7 +198,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759948860707_0",
+      "id": "q_auto_1760032180969_0",
       "questionText": "When are you planning to make your next move?",
       "options": [
         {
@@ -216,7 +216,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759948860707_1",
+      "id": "q_auto_1760032180969_1",
       "questionText": "Have you been pre-approved for a mortgage, or would you like a connection to a trusted mortgage advisor?",
       "options": [
         {
@@ -234,7 +234,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759948860707_2",
+      "id": "q_auto_1760032180969_2",
       "questionText": "Is your current mortgage up for renewal soon?",
       "options": [
         {
@@ -252,7 +252,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759948860707_3",
+      "id": "q_auto_1760032180969_3",
       "questionText": "Which best describes your property needs right now?",
       "options": [
         {
@@ -298,7 +298,7 @@ const config = {
     "secondaryLogoUrl": "https://iili.io/K5PBDjR.webp",
     "secondaryLogoAlt": "Brokerage Logo",
     "organizerName": "Anthony Caputo",
-    "brokerageName": "Christopher DeFazio (Broker)",
+    "brokerageName": "RE/MAX Experts",
     "address": "44 Queen St. N, Bolton, ON, L7E 1B9, Canada",
     "email": "acaputorealty@gmail.com",
     "phone": "416-938-7771",
