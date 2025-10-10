@@ -28,7 +28,7 @@ const config = {
     "primaryColorOverride": "#d51f2f",
     "secondaryColorOverride": "#1a439b",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/sOCXFADErl7YnAppyjkb/webhook-trigger/d1ryyGnWSyjJBuySHKaK",
-    "facebookPixelId": "1057475448873422",
+    "facebookPixelId": "155728600725982",
     "salesGeniusAppApi": "",
     "followUpBossEmail": "",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
@@ -194,7 +194,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760089397080_0",
+      "id": "q_auto_1760089567862_0",
       "questionText": "When are you planning to make your next move?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760089397080_1",
+      "id": "q_auto_1760089567862_1",
       "questionText": "Have you been pre-approved for a mortgage, or would you like a connection to a trusted mortgage advisor?",
       "options": [
         {
@@ -230,7 +230,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760089397080_2",
+      "id": "q_auto_1760089567862_2",
       "questionText": "Is your current mortgage up for renewal soon?",
       "options": [
         {
@@ -248,7 +248,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760089397080_3",
+      "id": "q_auto_1760089567862_3",
       "questionText": "Which best describes your property needs right now?",
       "options": [
         {
