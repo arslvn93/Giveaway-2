@@ -8,7 +8,7 @@ const config = {
     "heroHeadline": "Win <span class='highlight'>2x Premium Match Tickets</span> + BMO Lounge Access!",
     "heroSubheadline": "2x Premium Seats + 2x VIP Lounge Access to Canada vs. Ecuador at BMO Field – $500 Value",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/cg2h0gcdy5rme0csgxbtyc2j94.jpg",
-    "promotionDates": "Enter Oct 19–Nov 3, 2025. Winner contacted within 24–48 hours after draw. Game night: Thu, Nov 13, 7:30 PM at BMO Field.",
+    "promotionDates": "Enter Oct 10–Nov 3, 2025. Winner contacted within 24–48 hours after draw. Game night: Thu, Nov 13, 7:30 PM at BMO Field.",
     "endDate": "2025-11-04T04:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter Me to Win!",
@@ -194,7 +194,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760089567862_0",
+      "id": "q_auto_1760111402594_0",
       "questionText": "When are you planning to make your next move?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760089567862_1",
+      "id": "q_auto_1760111402594_1",
       "questionText": "Have you been pre-approved for a mortgage, or would you like a connection to a trusted mortgage advisor?",
       "options": [
         {
@@ -230,7 +230,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760089567862_2",
+      "id": "q_auto_1760111402594_2",
       "questionText": "Is your current mortgage up for renewal soon?",
       "options": [
         {
@@ -248,7 +248,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760089567862_3",
+      "id": "q_auto_1760111402594_3",
       "questionText": "Which best describes your property needs right now?",
       "options": [
         {
@@ -289,7 +289,7 @@ const config = {
       "phone": "416-938-7771",
       "email": "acaputorealty@gmail.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Anthony Caputo in collaboration with Christopher DeFazio. Not sponsored by or affiliated with Canada Soccer, the Ecuador Football Federation, BMO Field, or Meta. Contest runs Oct 19–Nov 3, 2025. One winner will be chosen at random from valid entries. Must be 18+, Ontario resident, and able to attend the Nov 13 game. No purchase necessary. Travel/parking not included. Tickets are for personal use only — no resale. Odds depend on number of entries. Winner must reply within 24–48 hours or a new winner may be selected. By entering, you agree to receive messages from Anthony Caputo; you can unsubscribe anytime.",
+    "footerDisclaimer": "This giveaway is sponsored by Anthony Caputo in collaboration with Christopher DeFazio. Not sponsored by or affiliated with Canada Soccer, the Ecuador Football Federation, BMO Field, or Meta. Contest runs Oct 10–Nov 3, 2025. One winner will be chosen at random from valid entries. Must be 18+, Ontario resident, and able to attend the Nov 13 game. No purchase necessary. Travel/parking not included. Tickets are for personal use only — no resale. Odds depend on number of entries. Winner must reply within 24–48 hours or a new winner may be selected. By entering, you agree to receive messages from Anthony Caputo; you can unsubscribe anytime.",
     "organizerLogoUrl": "https://iili.io/K5P7AQe.webp",
     "secondaryLogoUrl": "https://iili.io/K5PBDjR.webp",
     "secondaryLogoAlt": "Brokerage Logo",
