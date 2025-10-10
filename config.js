@@ -123,10 +123,6 @@ const config = {
       {
         "icon": "fas fa-mobile",
         "text": "Digital ticket delivery"
-      },
-      {
-        "icon": "fas fa-map-marker-alt",
-        "text": "Perfect for Caledon & Vaughan fans"
       }
     ]
   },
@@ -198,7 +194,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760088951570_0",
+      "id": "q_auto_1760089018930_0",
       "questionText": "When are you planning to make your next move?",
       "options": [
         {
@@ -216,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760088951570_1",
+      "id": "q_auto_1760089018930_1",
       "questionText": "Have you been pre-approved for a mortgage, or would you like a connection to a trusted mortgage advisor?",
       "options": [
         {
@@ -234,7 +230,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760088951570_2",
+      "id": "q_auto_1760089018930_2",
       "questionText": "Is your current mortgage up for renewal soon?",
       "options": [
         {
@@ -252,7 +248,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760088951570_3",
+      "id": "q_auto_1760089018930_3",
       "questionText": "Which best describes your property needs right now?",
       "options": [
         {
