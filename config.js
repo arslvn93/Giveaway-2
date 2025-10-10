@@ -25,7 +25,7 @@ const config = {
     ],
     "showCountdownInHero": true,
     "theme": "pastel",
-    "primaryColorOverride": "",
+    "primaryColorOverride": "#d51f2f",
     "secondaryColorOverride": "#1a439b",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/sOCXFADErl7YnAppyjkb/webhook-trigger/d1ryyGnWSyjJBuySHKaK",
     "facebookPixelId": "1057475448873422",
@@ -198,7 +198,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760088775564_0",
+      "id": "q_auto_1760088951570_0",
       "questionText": "When are you planning to make your next move?",
       "options": [
         {
@@ -216,7 +216,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760088775564_1",
+      "id": "q_auto_1760088951570_1",
       "questionText": "Have you been pre-approved for a mortgage, or would you like a connection to a trusted mortgage advisor?",
       "options": [
         {
@@ -234,7 +234,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760088775564_2",
+      "id": "q_auto_1760088951570_2",
       "questionText": "Is your current mortgage up for renewal soon?",
       "options": [
         {
@@ -252,7 +252,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760088775564_3",
+      "id": "q_auto_1760088951570_3",
       "questionText": "Which best describes your property needs right now?",
       "options": [
         {
